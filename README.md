@@ -1,4 +1,4 @@
-# Pulsation-vers-DTMF
+# Pulsation vers DTMF
 
 ## 🇫🇷 Français
 
