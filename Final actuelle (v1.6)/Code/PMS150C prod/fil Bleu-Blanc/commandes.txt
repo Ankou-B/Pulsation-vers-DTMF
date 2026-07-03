@@ -1,0 +1,1 @@
+A:\logiciel\EASYPDKPROG\easypdkprog.exe -p COM4 -n PMS150C write .\pms150c_rotary_tp5088_v15_faster_end.ihx
